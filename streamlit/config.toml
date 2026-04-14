@@ -1,0 +1,13 @@
+
+#### File: `.streamlit/config.toml` 
+
+Create a folder called `.streamlit` (note the dot at the beginning)  
+Inside it, create a file called `config.toml` and paste:
+
+```toml
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
